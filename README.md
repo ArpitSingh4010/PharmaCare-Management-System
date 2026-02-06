@@ -44,18 +44,6 @@ Technologies: JSP, Java Servlets, MySQL 8.0, Apache Tomcat, JDBC, HTML5/CSS3
 • Applied MVC architecture with PreparedStatements for SQL injection prevention
 ```
 
-**📄 Full resume descriptions available in:** [RESUME_DESCRIPTION.md](RESUME_DESCRIPTION.md)
-
-### 🎓 Perfect for Portfolio & Resume
-This project demonstrates:
-- ✅ Full-stack development (Frontend + Backend + Database)
-- ✅ Enterprise application architecture
-- ✅ Security best practices
-- ✅ Database design & automation
-- ✅ Professional code organization
-
----
-
 ## ✨ Features
 
 ### Customer Features
@@ -390,14 +378,14 @@ For issues or questions:
 2. Review MySQL and Tomcat logs
 3. Verify all prerequisites are installed correctly
 
-## �‍💻 Project Information
+##  Project Information
 
 **Project Name:** PharmaCare Management System  
 **Type:** Full-Stack Web Application  
 **Technologies:** JSP, Servlets, MySQL, Java, HTML5, CSS3  
 **Architecture:** MVC Pattern with Three-Tier Architecture  
 
-### Key Features for Resume:
+### Key Features:
 - Secure user authentication with role-based access (Customer/Vendor)
 - Automated inventory management using database triggers
 - Real-time order processing and tracking
