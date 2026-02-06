@@ -189,21 +189,20 @@ PharmaCare-Management-System/
 ├── README.md                  # This file
 ├── SECURITY_TESTING.md        # Security testing guide
 └── SECURITY_QUICK_REFERENCE.md # Security implementation guide
-```Compile SecurityUtil.java:
-   ```bash
-   cd WebContent/WEB-INF/classes
-   javac SecurityUtil.java
-   ```
-4. Start Tomcat server
-5. Navigate to `http://localhost:8080/PharmaCare-Management-System/Index.html`
+```
 
 ## 📖 Usage
 
 ### First Time Setup
 1. Start MySQL server
 2. Import `drugdatabase.sql` to create the database
-3. Start Tomcat server
-4. Navigate to `http://localhost:8080/Pharmacy-Drug-Management-System/Index.html`
+3. Compile SecurityUtil.java:
+   ```bash
+   cd WebContent/WEB-INF/classes
+   javac SecurityUtil.java
+   ```
+4. Start Tomcat server
+5. Navigate to `http://localhost:8080/PharmaCare-Management-System/Index.html`
 
 ### Customer Workflow
 1. **Register**: Click "Register As Customer" and fill in details
@@ -419,5 +418,6 @@ This project is for educational and portfolio purposes.
 ---
 
 **PharmaCare Management System** - A professional pharmacy management solution
-#   P h a r m a C a r e - M a n a g e m e n t - S y s t e m  
+
+ 
  
